@@ -1,5 +1,7 @@
 *.gem
+*.db
 *.rbc
+*.iml
 .bundle
 .config
 coverage
